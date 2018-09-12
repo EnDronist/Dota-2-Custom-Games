@@ -1,0 +1,7 @@
+"addon"
+{
+	"DOTA_GoodGuys"   						"Right Twix Bar"
+	"DOTA_BadGuys"    						"Left Twix Bar"
+//Hype
+	"npc_dota_hero_earthshaker_hype"		"First custom hero."
+}

@@ -1,0 +1,7 @@
+"addon"
+{
+	"DOTA_GoodGuys"   						"Правая Палочка Twix"
+	"DOTA_BadGuys"    						"Левая Палочка Twix"
+//Хайп
+	"npc_dota_hero_earthshaker_hype"		"Первый пользовательский герой."
+}
